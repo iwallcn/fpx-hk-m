@@ -1,0 +1,3 @@
+#http://m.hk-uat.4px.com/
+User-agent: *
+Disallow: /
